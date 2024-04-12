@@ -2,7 +2,6 @@
   "name": "tictactoe",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kishore-gowda.github.io/TicTacToe/",
   "type": "module",
   "scripts": {
     "dev": "vite",
